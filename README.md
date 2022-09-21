@@ -43,3 +43,5 @@ In order to see this in action, you need the following:
 ## Usage
 
 In order to build your API, just add your PHP application in the `app/api` folder and add your front-end code into the `app/fe` folder, from where you'll run the dev server using whatever technique usual
+
+Made by: www.arc2.co.uk
