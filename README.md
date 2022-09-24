@@ -1,6 +1,8 @@
-# CLMP-localhost
+# CLMP
 
-A dockerised https localhost dev environment stack for PHP/MySQL, ideal for SPA development.
+An acronym for Caddy Linux MySQL PHP
+
+A dockerised, https, localhost, dev environment stack for PHP/MySQL, ideal for SPA development.
 It is additionally configured to allow connecting to and between a locally running service on port 5173 (which could e.g. be a VueJS front-end SPA).
 The hard work was done in this ticket: https://caddy.community/t/how-to-get-dockerised-caddy-to-use-self-signed-certs-for-local-dev-with-php-fpm-spa-vuejs/16802/19
 
